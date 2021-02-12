@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "852295746788",
+    "project_id": "devnology-1391b",
+    "storage_bucket": "devnology-1391b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852295746788:android:d6e260ada2f6d0637798f1",
+        "android_client_info": {
+          "package_name": "com.unix.Devnology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852295746788-oad95s07iqj68c1ntlon5c4l5a18gaq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjy0kZ08N8ggUY4tj25oU7d49rlKMLmH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852295746788-oad95s07iqj68c1ntlon5c4l5a18gaq2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852295746788-amhbmfrb5u8pgbdspda59itmb86im20s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unix.Devnology"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
